@@ -1,0 +1,15 @@
+/Users/tatyanakulemina/Desktop/Homework C#/003/bin/Debug/net6.0/003
+/Users/tatyanakulemina/Desktop/Homework C#/003/bin/Debug/net6.0/003.deps.json
+/Users/tatyanakulemina/Desktop/Homework C#/003/bin/Debug/net6.0/003.runtimeconfig.json
+/Users/tatyanakulemina/Desktop/Homework C#/003/bin/Debug/net6.0/003.dll
+/Users/tatyanakulemina/Desktop/Homework C#/003/bin/Debug/net6.0/003.pdb
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.csproj.AssemblyReference.cache
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.AssemblyInfoInputs.cache
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.AssemblyInfo.cs
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.csproj.CoreCompileInputs.cache
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.dll
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/refint/003.dll
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.pdb
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/003.genruntimeconfig.cache
+/Users/tatyanakulemina/Desktop/Homework C#/003/obj/Debug/net6.0/ref/003.dll
